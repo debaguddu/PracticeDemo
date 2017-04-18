@@ -1,0 +1,11 @@
+ Volume in drive G is New Volume
+ Volume Serial Number is DC03-AD6E
+
+ Directory of G:\GitWork
+
+04/18/2017  10:19 PM    <DIR>          .
+04/18/2017  10:19 PM    <DIR>          ..
+04/18/2017  10:18 PM               335 test1.txt
+04/18/2017  10:19 PM                 0 test2.txt
+               2 File(s)            335 bytes
+               2 Dir(s)  525,617,078,272 bytes free
